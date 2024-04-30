@@ -1,2 +1,0 @@
-# CBTCIP
-CipherByte Project
